@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://gitlab.igem.org/2026/software-tools/REPLACE-WITH-TEAM"
+Repository = "https://github.com/sidchow25/strain-design-preflight""
 
 [tool.setuptools.packages.find]
 include = ["rl_strain_design*"]
