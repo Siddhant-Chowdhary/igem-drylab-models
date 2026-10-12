@@ -1,0 +1,10 @@
+# Core dependencies. See INSTALL.md for full prerequisites.
+# A linear-programming solver (GLPK) ships with cobra -- nothing extra needed.
+cobra>=0.29
+numpy>=1.24
+PyYAML>=6.0
+
+# Optional, not required:
+#   pytest   -- nicer test output; tests also run without it
+#   pandas   -- only the Jupyter notebook uses it
+#   jupyter  -- only to run the notebook locally instead of in Colab
